@@ -1,0 +1,1 @@
+redirecting all urls in www.jothin.tech to jothin.tech
